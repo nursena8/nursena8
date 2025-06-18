@@ -1,4 +1,4 @@
-<h1 align="center">Selamlar 👋, I'm Nursena</h1>
+<h1 align="center">HI 👋, I'm Nursena</h1>
 
 <p align="center">
   🚀 Aspiring AI & Data 
@@ -38,6 +38,6 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/nursena-bayk%C4%B1r/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="[https://www.linkedin.com/in/https://www.linkedin.com/in/nursena-bayk%C4%B1r](https://www.linkedin.com/in/nursena-bayk%C4%B1r)/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:nursenabaykir@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
