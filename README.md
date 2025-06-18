@@ -1,5 +1,8 @@
 <h1 align="center">HI 👋, I'm Nursena</h1>
 
+<p align="center"> <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
+ width="400"/> </p>
+
 <p align="center">
   🚀 Aspiring AI & Data 
 </p>
@@ -38,6 +41,6 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/https://www.linkedin.com/in/nursena-bayk%C4%B1r](https://www.linkedin.com/in/nursena-bayk%C4%B1r)/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="[https://www.linkedin.com/in/nursena-bayk%C4%B1r><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:nursenabaykir@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
