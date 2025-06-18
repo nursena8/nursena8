@@ -1,7 +1,7 @@
 <h1 align="center">HI 👋, I'm Nursena</h1>
 
-<p align="center"> <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
- width="400"/> </p>
+
+<img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="400"/>
 
 <p align="center">
   🚀 Aspiring AI & Data 
@@ -27,7 +27,6 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=vscode,jupyter" />
 </p>
 
 ---
