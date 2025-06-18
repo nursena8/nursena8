@@ -9,7 +9,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 -  I love building projects and experimenting with the latest tech
 
 ---
